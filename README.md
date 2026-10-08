@@ -1,6 +1,8 @@
+<div align="justify">
 # Book-Recommender-System
 
-## Dataset Link: https://www.kaggle.com/datasets/mostafanofal/book-crossing-descriptions-from-google-api/data
+## Dataset Link: 
+- https://www.kaggle.com/datasets/mostafanofal/book-crossing-descriptions-from-google-api/data
 
 
 ## Recommender Systems Survey
