@@ -71,3 +71,16 @@ The proposed system therefore follows an item-based collaborative filtering fram
 
 ## Exception Handling
 - Custom Exception Handling: https://docs.python.org/3/tutorial/errors.html
+
+## Workflow
+- books_recommender/constant (one time update)
+
+## Repeat the steps
+- config.yaml
+- entity
+- config/configuration.py
+- components
+- pipeline
+- main.py
+
+- app.py
