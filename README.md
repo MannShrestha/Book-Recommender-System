@@ -47,7 +47,7 @@ Recommender Systems
     └── TransE-based Recommendation
 
 ```
-## Journal **A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**
+## Journal: **A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**
 - link: https://arxiv.org/pdf/2407.13699
 
 
@@ -77,7 +77,7 @@ The proposed system therefore follows an item-based collaborative filtering fram
 
 ## Repeat the steps
 - config.yaml
-- entity
+- entity/config_entity
 - config/configuration.py
 - components
 - pipeline
@@ -98,7 +98,9 @@ git clone https://github.com/MannShrestha/Book-Recommender-System.git
 ### STEP 01- Create a conda environment after opening the repository
 ```bash
 conda create -n recommendation python=3.12 -y
+```
 
+```bash
 conda activate recommendation
 ```
 
