@@ -67,3 +67,7 @@ This approach is particularly appropriate for this dataset because it allows the
 
 The proposed system therefore follows an item-based collaborative filtering framework using unsupervised K-Nearest Neighbours. Books are represented through their user-rating patterns, and the resulting sparse interaction matrix is stored using CSR(Compressed Sparse Row) format. NN is then applied to identify neighbouring books based on their similarity in the interaction space. The recommendations are consequently derived from collective user behaviour rather than from manually defined book characteristics.
 
+# Code section
+
+## Exception Handling
+- Custom Exception Handling: https://docs.python.org/3/tutorial/errors.html
