@@ -84,3 +84,30 @@ The proposed system therefore follows an item-based collaborative filtering fram
 - main.py
 
 - app.py
+
+
+
+# Run the Project
+
+## STEPS:
+*Clone the repository*
+```bash
+git clone https://github.com/MannShrestha/Book-Recommender-System.git
+```
+
+### STEP 01- Create a conda environment after opening the repository
+```bash
+conda create -n recommendation python=3.12 -y
+
+conda activate recommendation
+```
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+now run the project
+
+```bash
+streamlit run app.py
+```
